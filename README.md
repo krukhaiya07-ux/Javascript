@@ -59,16 +59,6 @@ projects/
 
 JavaScript · HTML · CSS · Git
 
----
-
-## 🚀 Next
-
-* Backend (Node.js)
-* More projects
-* DSA & interview prep
-
----
-
 ⭐ Follow my journey as I grow into a developer.
 
 
