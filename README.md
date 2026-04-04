@@ -23,20 +23,6 @@
 
 ---
 
-## 📂 Structure
-
-```bash
-basics/
-functions/
-objects/
-arrays-loops/
-dom/
-async-js/
-projects/
-```
-
----
-
 ## 💻 Projects
 
 *(Will be added as I progress)*
@@ -45,15 +31,6 @@ projects/
 * Amazon Clone (learning project)
 * Practice applications
 
----
-
-## 🧠 Approach
-
-* Learn → Code → Repeat
-* Focus on clarity over memorization
-* Build alongside theory
-
----
 
 ## 🛠️ Tech
 
