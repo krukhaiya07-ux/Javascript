@@ -1,4 +1,8 @@
-//Topic-Variables In Javascript
-console.log("This file contains the code to learn about variables")
-let a = 67// a contains 67
-console.log(a)//Displays 67 as output
+//Topic:Types of variables
+//What i Learned:Various ways to Declare variables in Javascript
+let a = [ 1, 2, 3 ]; // Array
+const s = "Hello"; // String
+var n = 42; // Number
+console.log(a);
+console.log(s);
+console.log(n);
