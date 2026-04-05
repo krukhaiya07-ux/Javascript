@@ -1,5 +1,6 @@
 //Topic: Differences between let and const
 //What I learned:Declaring the variables using let and const  
+
 console.log("Javascript:var,let and const")
 //var a = 45
 //var a = "p"
