@@ -26,6 +26,6 @@ switch (day) {
   case 3:
     console.log("Wednesday");
     break;
-  default://If nothing matches
+  default://If nothing matches with the condition
     console.log("Invalid day");
 }
