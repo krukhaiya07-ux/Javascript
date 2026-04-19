@@ -1,6 +1,6 @@
 //Topic:Switch operator for multiple values of one variable
 
-let grade = "A";
+let grade = "C";
 
 switch (grade) {
   case "A":
