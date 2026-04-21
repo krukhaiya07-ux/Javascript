@@ -3,6 +3,5 @@
 function subtract(a, b) {
     return a - b;
 }
-
 console.log(subtract(5, 2));
 console.log(subtract(2, 5));
