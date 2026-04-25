@@ -6,14 +6,14 @@ let marks = {
     Lovish: 56, 
     Monika: 94
 };
+
 function findLowestScorer(marks) {
     let keys = Object.keys(marks);
-
     let lowestMarks = marks[keys[0]];
     let lowscorer = keys[0];
 
     for (let key in marks) {
-        if (marks[key] < lowestMarks) {
+        if (marks[key] < lowestMarks){
             lowestMarks = marks[key];
             lowscorer = key;
         }
@@ -21,3 +21,7 @@ function findLowestScorer(marks) {
 
     return lowscorer;
 }
+
+
+
+

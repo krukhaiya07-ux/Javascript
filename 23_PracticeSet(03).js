@@ -14,7 +14,7 @@ for (let i = 0; i < Object.keys(marks).length; i++) {
 
 //Problem 2:
 for(let key in marks){
-    console.log("The marks of"  + key +  "are"   marks[key] )
+    console.log("The marks of"  + key +  "are"  marks[key] )
 }
 
 //Problem 3: 
