@@ -8,8 +8,8 @@ let marks = {
 };
 
 function findLowestScorer(marks) {
-    let keys = Object.keys(marks);
-    let lowestMarks = marks[keys[0]];
+    let keys = Object.keys(marks);// ["Harry", "Shubh", "Lovish", "Monika"]
+    let lowestMarks = marks[keys[0]];//marks["Harry"] = 90
     let lowscorer = keys[0];
 
     for (let key in marks) {
