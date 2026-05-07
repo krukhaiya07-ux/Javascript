@@ -21,4 +21,4 @@ console.log(mydata)
 //slice method
 let num2=[551,22,3,14,5,7,8,229]
 let newNum = num2.slice(3,5)
-console.log(newNum)
+console.log(newNum)..
